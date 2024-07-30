@@ -5,7 +5,7 @@ This Python Jupyter Notebook provides a tool for determining the bandgap of a ma
 
 ### Features
 * Excel template for data input
-* Innovative Tauc plot algorithm with python programming
+* Innovative Tauc plot algorithm with Python programming
 * User-friendly Jupyter Notebook interface
 
 ### How to Use
